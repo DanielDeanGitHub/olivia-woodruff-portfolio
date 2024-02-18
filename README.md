@@ -1,8 +1,8 @@
+#### Objective provided by Codecademy
+
 ### WEB DEVELOPMENT FOUNDATIONS
 
 # Olivia Woodruff Portfolio
-
-#### Objective provided by Codecademy:
 
 In this project, you’ll use your knowledge of CSS visual rules to create rule sets and improve the appearance of a photography portfolio site!
 
